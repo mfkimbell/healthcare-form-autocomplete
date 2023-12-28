@@ -3,9 +3,9 @@
 # I currently maintain this script for a hospital in a separate private repository. In this public version, I have removed all references to the source and will only be discussing code snippets and project structure
 
 ### **Tools Used:**
-* `selenium`
-* `pandas`
-* `python`
+* `selenium` python package for automated web interaction
+* `pandas` for extracting excel data
+* `pyenv` for managing dependencies
 
 ### **Things I Learned**
 * with selenium, many times you have to dictate scrolling to allow objects to be visible
