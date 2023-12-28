@@ -5,7 +5,7 @@
 ### **Tools Used:**
 * `selenium` python package for automated web interaction
 * `pandas` for extracting excel data
-* `pyenv` for managing dependencies
+* `pipenv` for managing dependencies and virtual enviornments
 
 ### **Things I Learned**
 * with selenium, many times you have to dictate scrolling to allow objects to be visible
