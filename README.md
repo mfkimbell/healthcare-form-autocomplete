@@ -95,3 +95,31 @@ for case in cases:
 
 ... and so on
 ```
+I have a shell script I have them run:
+```
+#!/bin/zsh
+
+# Install dependencies from requirements.txt
+pip install -r requirements.txt
+
+# Activate virtual environment directly
+source $(pipenv --venv)/bin/activate
+
+# Run your Python script
+python formFill.py
+```
+
+And I give them the following instructions:
+```
+Run these commands in your terminal (only necessary for the first use):
+
+chmod +x run.sh
+
+chmod +x test.sh
+
+After that, run these two commands to run and test:
+
+./run.sh
+
+./test.sh
+```
