@@ -123,3 +123,7 @@ After that, run these two commands to run and test:
 
 ./test.sh
 ```
+And here are all the files:
+
+<img width="301" alt="Screenshot 2024-01-08 at 3 01 56 PM" src="https://github.com/mfkimbell/healthcare-form-autocomplete/assets/107063397/4eb674a8-3608-4e1e-b2f8-5fca98e65dd4">
+
